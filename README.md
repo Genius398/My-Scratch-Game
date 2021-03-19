@@ -6,4 +6,4 @@ Languages:
 
 1.HTML
 
-Give feedback in <a href="https://github.com/Genius398/My-Scratch-Game/issues" target="blank_">https://github.com/Genius398/My-Scratch-Game/issues</a>
+Give feedback in <a href="https://github.com/Genius398/My-Scratch-Game/issues" target="blank_">issues</a>
